@@ -1,0 +1,75 @@
+{
+    "tags": [
+        "TempusFugit",
+        "TalFaràTalTorbaràs",
+        "QuiDiaPassaAnyEmpeny",
+        "SócUnCampanarDigital",
+        "AlMeuGermàAnalogicElVanCensurar",
+        "ViscaLaPalmaDeCervelló",
+        "SomDeLaPalma",
+        "LaKonfrariaDeLaVila"
+    ],
+
+    "time": {
+        "0:0": "Les dotze en punt",
+        "0:15": "Un quart d'una",
+        "0:30": "Dos quarts d'una",
+        "0:45": "Tres quarts d'una",
+
+        "1:0": "La una en punt",
+        "1:15": "Un quart de dues",
+        "1:30": "Dos quarts de dues",
+        "1:45": "Tres quarts de dues",
+
+        "2:00": "Les dues en punt",
+        "2:15": "Un quart de tres",
+        "2:30": "Dos quarts de tres",
+        "2:45": "Tres quarts de tres",
+
+        "3:00": "Les tres en punt",
+        "3:15": "Un quart de quatre",
+        "3:30": "Dos quarts de quatre",
+        "3:45": "Tres quarts de quatre",
+
+        "4:0": "Les quatre en punt",
+        "4:15": "Un quart de cinc",
+        "4:30": "Dos quarts de cinc",
+        "4:45": "Tres quarts de cinc",
+
+        "5:0": "Les cinc en punt",
+        "5:15": "Un quart de sis",
+        "5:30": "Dos quarts de sis",
+        "5:45": "Tres quarts de sis",
+
+        "6:0": "Les sis en punt",
+        "6:15": "Un quart de set",
+        "6:30": "Dos quarts de set",
+        "6:45": "Tres quarts de set",
+
+        "7:0": "Les set en punt",
+        "7:15": "Un quart de vuit",
+        "7:30": "Dos quarts de vuit",
+        "7:45": "Tres quarts de vuit",
+
+        "8:0": "Les vuit en punt",
+        "8:15": "Un quart de nou",
+        "8:30": "Dos quarts de nou",
+        "8:45": "Tres quarts de nou",
+
+        "9:0": "Les nou en punt",
+        "9:15": "Un quart de deu",
+        "9:30": "Dos quarts de deu",
+        "9:45": "Tres quarts de deu",
+
+        "10:0": "Les deu en punt",
+        "10:15": "Un quart d'onze",
+        "10:30": "Dos quarts d'onze",
+        "10:45": "Tres quarts d'onze",
+
+        "11:0": "Les onze en punt",
+        "11:15": "Un quart de dotze",
+        "11:30": "Dos quarts de dotze",
+        "11:45": "Tres quarts de dotze"
+    }
+
+}
