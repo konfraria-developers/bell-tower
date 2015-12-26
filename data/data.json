@@ -26,6 +26,21 @@
         "QueNoTAtrapiElTemps"
     ],
 
+    "special_tags": {
+        "25/12": [
+            "BonNadal",
+            "NoSiguisTanCaganer"
+        ],
+        "26/12": [
+            "SantEsteve",
+            "CanelonsFoodPorn"
+        ],
+        "28/12": [
+            "DiaDelInocents",
+            "NoFacisLlufa"
+        ]
+    },
+
     "time": {
         "0:0": "Les dotze en punt",
         "0:15": "Un quart d'una",

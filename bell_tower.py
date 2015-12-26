@@ -10,7 +10,7 @@ class BellTower(object):
     def __init__(self, credentials_path, data_path):
         # internal data
         self.credentials = self.load_credentials(credentials_path)
-        self.tags, self.time = self.load_data(data_path)
+        self.tags, self.special_tags, self.time = self.load_data(data_path)
 
         # TwitterAPI
         self.api = TwitterAPI(
@@ -27,7 +27,7 @@ class BellTower(object):
     def load_data(self, path_file):
         data = open(path_file, 'r').read()
         data_json = json.loads(data)
-        return data_json['tags'], data_json['time']
+        return data_json['tags'], data_json['special_tags'], data_json['time']
 
     def load_credentials(self, path_file):
         data = open(path_file, 'r').read()
@@ -40,22 +40,8 @@ class BellTower(object):
 
     def process_text(self, date):
 
-        # take hour value
-        hour = date.hour
-
-        # parse hour to AM system
-        if   hour == 12: hour = 0
-        elif hour == 13: hour = 1
-        elif hour == 14: hour = 2
-        elif hour == 15: hour = 3
-        elif hour == 16: hour = 4
-        elif hour == 17: hour = 5
-        elif hour == 18: hour = 6
-        elif hour == 19: hour = 7
-        elif hour == 20: hour = 8
-        elif hour == 21: hour = 9
-        elif hour == 22: hour = 10
-        elif hour == 23: hour = 11
+        # take hour value and parse hour to AM system
+        hour = date.hour % 12
 
         # produce string for time dict
         hour_key = '%s:%s' % (hour, date.minute)
@@ -65,8 +51,14 @@ class BellTower(object):
         # build tweet - HOUR
         text = '%s - %s ' % (hour_num, hour_cat)
 
+        # get day/month key
+        month_day_key = '%s/%s' % (date.month, date.date)
+
         # build tweet - catch random TAGS
-        tags = random.sample(self.tags, self.num_tags)
+        if month_day_key in self.special_tags:
+            tags = random.sample(self.special_tags, self.num_tags)
+        else:
+            tags = random.sample(self.tags, self.num_tags)
 
         # append tags tot tweet
         for t in tags:
