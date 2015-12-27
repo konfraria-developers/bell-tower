@@ -22,7 +22,7 @@ class BellTower(object):
 
         # internal attributes
         self.max_tweet_char = 120
-        self.num_tags = 4
+        self.num_tags = 3
 
     def load_data(self, path_file):
         data = open(path_file, 'r').read()
