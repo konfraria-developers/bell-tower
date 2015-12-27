@@ -27,76 +27,76 @@
     ],
 
     "special_tags": {
-	"1/1": [
-	    "ApedaçantSArribaAlCapDAny",
-	    "CapDAnyEnDijousPortaMalsDeCor",
-	    "CapDAnyEnDimartsPortaMalDeCap",
-	    "CapDAnyEnDiumengeVenElsBousINoSembris",
-	    "CapDAnyEnDivendresPortaMalDeVentre",
-	    "CapDAnyGelatAnyDeMoltBlat",
-	    "CapDAnyGelatMoltPaAssegurat",
-	    "CapDAnyLleganyMalAny",
-	    "CapDAnySerèTotLAnyVaBé",
-	    "DesprésDeCapDAnyFiguesSequesPerCompany",
-	    "GeladaDeCapDAnyPaPerTotLAny",
-	    "MissaDeCapDAnyServeixPerATotLAny"
-	],
-	"5/1": [
-	    "ElDiaDeReisParlenElsEstels",
-	    "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
-	    "LHivernVertaderPelsReisElFredPrimer"
-	],
-	"6/1": [
-	    "DesprésDelsReisTothomÉsBonPagès",
- 	    "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
-	    "LHivernVertaderPelsReisElFredPrimer"
-	],
-	"23/4": [
-	    "BonSantJordiISantaCreuHiHauràViPertotArreu",
-	    "ElBonPagèsPerSantJordiJaSapElQueFaràLOrdi",
-	    "NoDiguisHivernPassatQueSantJordiNoHagiEstat",
-	    "SantJordiArribatSurtLaCucaDelForat"
-	],
-	"15/5": [
-	    "ElMaigÉsDolentSiSantIsidreNoPunxa",
-	    "QuanSantIsidreÉsArribatTotElBlatJaÉsIgualat",
-	    "SantIsidreLlauradorSEmportaLaPlujaIPortaElSol"
-	],
-	"15/8": [
-	    "EnVósEsperaIConfia",
-	    "FestaMajor",
-	    "FontDeSantaInspiració"
-	],
-	"11/9": [
-	    "BonCopDeFalç"
-	],
-	"24/12": [
-	    "CagaTió",
-	    "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
-	],
+        "1/1": [
+            "ApedaçantSArribaAlCapDAny",
+            "CapDAnyEnDijousPortaMalsDeCor",
+            "CapDAnyEnDimartsPortaMalDeCap",
+            "CapDAnyEnDiumengeVenElsBousINoSembris",
+            "CapDAnyEnDivendresPortaMalDeVentre",
+            "CapDAnyGelatAnyDeMoltBlat",
+            "CapDAnyGelatMoltPaAssegurat",
+            "CapDAnyLleganyMalAny",
+            "CapDAnySerèTotLAnyVaBé",
+            "DesprésDeCapDAnyFiguesSequesPerCompany",
+            "GeladaDeCapDAnyPaPerTotLAny",
+            "MissaDeCapDAnyServeixPerATotLAny"
+        ],
+        "5/1": [
+            "ElDiaDeReisParlenElsEstels",
+            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
+            "LHivernVertaderPelsReisElFredPrimer"
+        ],
+        "6/1": [
+            "DesprésDelsReisTothomÉsBonPagès",
+            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
+            "LHivernVertaderPelsReisElFredPrimer"
+        ],
+        "23/4": [
+            "BonSantJordiISantaCreuHiHauràViPertotArreu",
+            "ElBonPagèsPerSantJordiJaSapElQueFaràLOrdi",
+            "NoDiguisHivernPassatQueSantJordiNoHagiEstat",
+            "SantJordiArribatSurtLaCucaDelForat"
+        ],
+        "15/5": [
+            "ElMaigÉsDolentSiSantIsidreNoPunxa",
+            "QuanSantIsidreÉsArribatTotElBlatJaÉsIgualat",
+            "SantIsidreLlauradorSEmportaLaPlujaIPortaElSol"
+        ],
+        "15/8": [
+            "EnVósEsperaIConfia",
+            "FestaMajor",
+            "FontDeSantaInspiració"
+        ],
+        "11/9": [
+            "BonCopDeFalç"
+        ],
+        "24/12": [
+            "CagaTió",
+            "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
+        ],
         "25/12": [
             "BonNadal",
             "NoSiguisTanCaganer",
-	    "ANadalFredComCam",
-	    "ANadalUnPasDePardal",
-	    "BoiresPerNadalNoFanBéNiMal",
-	    "ElViDeNadalNiEmborratxaNiFaMal"
+            "ANadalFredComCal",
+            "ANadalUnPasDePardal",
+            "BoiresPerNadalNoFanBéNiMal",
+            "ElViDeNadalNiEmborratxaNiFaMal"
         ],
         "26/12": [
             "SantEsteve",
             "CanelonsFoodPorn",
-	    "ASantEsteveUnPasDeLlebre"
+            "ASantEsteveUnPasDeLlebre"
         ],
         "28/12": [
             "DiaDelsInnocents",
             "NoFacisLlufa",
-	    "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
+            "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
             "ElsInnocentsPosenLlufes"
         ],
-	"31/12": [
-	    "LHomeDelsNassos",
-	    "ApedaçantSArribaAlCapDAny"
-	],
+        "31/12": [
+            "LHomeDelsNassos",
+            "ApedaçantSArribaAlCapDAny"
+        ]
     },
 
     "time": {
