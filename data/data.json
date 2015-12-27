@@ -12,7 +12,7 @@
         "QuiMatinaFaFarina",
         "NoCallaréDeNit",
         "LaCampanaNoVaAMissaPeròATotsAvisa",
-        "TirenMesDuesCampanesQueDuesCarretes",
+        "TirenMésDuesCampanesQueDuesCarretes",
         "DonesCoetsICampanesNoTenenAmo",
         "CampanesAlVolPilotesALOlla",
         "CampanarDePiCasaDeVi",
@@ -91,7 +91,9 @@
             "DiaDelsInnocents",
             "NoFacisLlufa",
             "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
-            "ElsInnocentsPosenLlufes"
+            "ElsInnocentsPosenLlufes",
+	    "NoFacisElNinot",
+	    "Innocentada"
         ],
         "31/12": [
             "LHomeDelsNassos",
@@ -110,12 +112,12 @@
         "1:30": "Dos quarts de dues 🕜 ",
         "1:45": "Tres quarts de dues",
 
-        "2:00": "Les dues en punt 🕑 ",
+        "2:0": "Les dues en punt 🕑 ",
         "2:15": "Un quart de tres",
         "2:30": "Dos quarts de tres 🕝 ",
         "2:45": "Tres quarts de tres",
 
-        "3:00": "Les tres en punt 🕒 ",
+        "3:0": "Les tres en punt 🕒 ",
         "3:15": "Un quart de quatre",
         "3:30": "Dos quarts de quatre 🕞 ",
         "3:45": "Tres quarts de quatre",
