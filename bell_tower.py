@@ -93,7 +93,6 @@ class BellTower(object):
 
         # choode weighted random keys
         key = str(random.choice(keys_list))
-        key = 'hours_interval'
 
         if key == 'day_month':
             key_ = key_day
