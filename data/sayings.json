@@ -50,44 +50,34 @@
             "FreedomForCatalonia"
         ],
         "1/11": [
-            "PerTotsSantsCapesIMocadorsGrans",
-            "PerTotsSantsINoMésEnllàHasDeSembrar",
-            "PerTotsSantsLesOlivesALesMans",
-            "PerTotsSantsSembratsElsCamps",
-            "QuiSembraPerTotsSantsSembraBlatICullEscarabats"
+            "«Per Tots Sants, capes i mocadors grans»",
+            "«Per Tots Sants i no més enllà, has de sembrar» 🌾",
+            "«Per Tots Sants, les olives a les mans»",
+            "«Per Tots Sants, sembrats els camps» 🌾",
+            "«Qui sembra per Tots Sants, sembra blat i cull escarabats» 🐞"
         ],
         "24/12": [
-            "CagaTió",
-            "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
+            "«Bona casa i bona brasa, bona brasa i bon Tió, i bon Nadal que Déu ens dó» 🎄🎅"
         ],
         "25/12": [
-            "BonNadal",
-            "NoSiguisTanCaganer",
-            "ANadalFredComCal",
-            "ANadalUnPasDePardal",
-            "BoiresPerNadalNoFanBéNiMal",
-            "ElViDeNadalNiEmborratxaNiFaMal",
-            "PerNadalQuiResNoEstrenaResNoVal",
-            "PerNadalISantEsteveTothomACasaSeva"
+            "«A Nadal fred com cal» ❄🎄🎅",
+            "«A Nadal un pas de pardal» 🐦🎄🎅",
+            "«Boires per Nadal, no fan bé ni mal» 🎄🎅",
+            "«El vi de Nadal ni emborratxa ni fa mal» 🍷🎄🎅",
+            "«Per Nadal qui res no estrena, res no val» 🎄🎅",
+            "«Per Nadal i Sant Esteve, tothom a casa seva» 🏠🎄🎅"
         ],
         "26/12": [
-            "SantEsteve",
-            "CanelonsFoodPorn",
-            "ASantEsteveUnPasDeLlebre",
-            "PerNadalISantEsteveTothomACasaSeva"
+            "«A Sant Esteve, un pas de llebre» 🐇🎄🎅",
+            "«Per Nadal i Sant Esteve, tothom a casa seva» 🏠🎄🎅"
         ],
         "28/12": [
-            "DiaDelsInnocents",
-            "NoFacisLlufa",
-            "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
-            "ElsInnocentsPosenLlufes",
-            "NoFacisElNinot",
-            "Innocentada"
+            "«Pels Sants Innocents ni donis ni deixis a amics ni parents» 😜",
+            "«Els Innocents posen llufes» 💨"
         ],
         "31/12": [
-            "LHomeDelsNassos",
-            "ApedaçantSArribaAlCapDAny",
-            "SantSilvestreÉsElDarrerVespre"
+            "«Apedaçant s'arriba al Cap d'Any» 🌃🎉🎊🍇",
+            "«Sant Silvestre és el darrer vespre» 🌃🎉🎊🍇"
         ]
     },
 
@@ -168,33 +158,19 @@
     },
 
     "other": [
-        "TempusFugit",
-        "TalFaràsTalTorbaràs",
-        "QuiDiaPassaAnyEmpeny",
-        "SócUnCampanarDigital",
-        "AlMeuGermàAnalògicElVanCensurar",
-        "ViscaLaPalmaDeCervelló",
-        "SomDeLaPalma",
-        "LaKonfrariaDeLaVila",
-        "QuiNoPotSegarEspigola",
-        "QuiMatinaFaFarina",
-        "NoCallaréDeNit",
-        "LaCampanaNoVaAMissaPeròATotsAvisa",
-        "TirenMésDuesCampanesQueDuesCarretes",
-        "DonesCoetsICampanesNoTenenAmo",
-        "CampanesAlVolPilotesALOlla",
-        "CampanarDePiCasaDeVi",
-        "PerCampanaLaQueEmPenja",
-        "CampanarConnectingPeople",
-        "TotsDuemUnaCampanaDaltDelCap",
-        "CadaPobleElSeuEstil",
-        "CampanarEpicWin",
-        "ComMésLleisMésMals",
-        "DesQueHiHaCampanesHiHaBatalles",
-        "QueNoTAtrapiElTemps",
-        "ElTempsPassaILaJoanaBalla",
-        "TantesHoresTantsRemeis",
-        "UnaHoraDeVidaÉsBona",
-        "UnaHoraNoTéMida"
+        "«Qui dia passa any empeny» 📆",
+        "«Qui no pot segar, espigola» 🚜",
+        "«Qui matina, fa farina» 🍞",
+        "«La campana no va a missa, però a tots avisa» ⛪",
+        "«Dones, coets i campanes, no tenen amo» 🚀",
+        "«Campanes al vol, pilotes a l'olla»",
+        "«Campanar de pi, casa de vi» 🍷",
+        "«Tots duem una campana dalt del cap» 🔔",
+        "«Com més lleis, més mals»",
+        "«Des que hi ha campanes hi ha batalles» 🔔",
+        "«El temps passa i la Joana balla» 💃",
+        "«Tantes hores, tants remeis» 💊",
+        "«Una hora de vida és bona» ⏳",
+        "«Una hora no té mida» 📏"
     ]
 }
