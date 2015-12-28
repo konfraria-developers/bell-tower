@@ -122,19 +122,37 @@
             "Novembre"
         ],
         "12": [
-            "Desembre"
+            "Desembre",
+            "DesembreCongelat",
+            "FumFumFum",
+            "ChristmasIsComming"
         ]
     },
 
     "hours_interval": {
         "morning": [
             "BonDiaLaVilaDelPingüí"
+        ],
+        "night": [
+            "DePetAlLlit"
         ]
     },
 
-    "calendar_interval": {
-        "interval_1": [
+    "season": {
+        "winter": [
+            "HivernGlaçat",
+            "FaFred!",
+            "LaMarEstaFresquibiris",
+            "AmbElCulALaire"
+        ],
+        "summer": [
             "HivernGlaçat"
+        ],
+        "spring": [
+            "HivernGlaçat"
+        ],
+        "autumn": [
+            "WinterIsComming"
         ]
     },
 

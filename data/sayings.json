@@ -238,7 +238,10 @@
 
     "hours_interval": {
         "morning": [
-            "«Qui matina, fa farina»"
+            "«Cada dia pel matí, canta el gall qui-qui-ri-qui»"
+        ],
+        "night": [
+            "«Bona nit bons germans, bona nit»"
         ]
     },
 
@@ -257,7 +260,7 @@
             "«L'hivern té mal govern»",
             "«Mal hivern, primavera d'infern»",
             "«Orenetes tardanes, hi ha hivern per setmanes»",
-            "«Pluja d'hivern, dia d'infern»",
+            "«Pluja d'hivern, dia d'infern»"
         ],
         "spring": [
             "«En el llit, tot l'any és primavera»",
@@ -303,7 +306,7 @@
             "«Tardor i hivern, per al vell, temps d'infern»",
             "«Tardor serena, hivernventós; tardor ventosa, hivernserè»",
             "«Tardorada dolenta, millor tardana que primerenca»",
-            "«Verdura per la tardor, per a tu i per a mi, no»",
+            "«Verdura per la tardor, per a tu i per a mi, no»"
         ]
     },
 

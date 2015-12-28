@@ -75,21 +75,21 @@ class BellTower(object):
         # get day/month key
         key_day = '%s/%s' % (date.day, date.month)
 
-        if key_day in tokens['day_month'][key_day]:
+        if key_day in tokens['day_month']:
 
             keys_list = ['day_month'] * 50 +          \
-                        ['other'] * 25 +              \
-                        ['month'] * 15 +              \
-                        ['day_week'] * 7 +            \
-                        ['hours_interval'] * 2 +      \
-                        ['calendar_interval'] * 1
+                        ['other'] * 10 +              \
+                        ['month'] * 10 +              \
+                        ['day_week'] * 10 +           \
+                        ['hours_interval'] * 10 +     \
+                        ['season'] * 10
         else:
 
-            keys_list = ['other'] * 50 +              \
-                        ['month'] * 25 +              \
-                        ['day_week'] * 15 +           \
-                        ['hours_interval'] * 7 +      \
-                        ['calendar_interval'] * 3
+            keys_list = ['other'] * 20 +              \
+                        ['month'] * 20 +              \
+                        ['day_week'] * 20 +           \
+                        ['hours_interval'] * 20 +     \
+                        ['season'] * 20
 
         # choode weighted random keys
         key = str(random.choice(keys_list))
@@ -100,14 +100,17 @@ class BellTower(object):
         elif key == 'month':
             key_ = str(date.month)
 
-        elif key == 'calendar_interval':
-            key_ = 'interval_1'
+        elif key == 'season':
+            key_ = 'winter'
 
         elif key == 'day_week':
             key_ = str(date.weekday() + 1)
 
         elif key == 'hours_interval':
-            key_ = 'morning'
+            if date.hour < 12:
+                key_ = 'morning'
+            else:
+                key_ = 'night'
 
         # get a random tokens
         if key == 'other':
