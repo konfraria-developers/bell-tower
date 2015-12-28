@@ -12,7 +12,7 @@
         "QuiMatinaFaFarina",
         "NoCallaréDeNit",
         "LaCampanaNoVaAMissaPeròATotsAvisa",
-        "TirenMesDuesCampanesQueDuesCarretes",
+        "TirenMésDuesCampanesQueDuesCarretes",
         "DonesCoetsICampanesNoTenenAmo",
         "CampanesAlVolPilotesALOlla",
         "CampanarDePiCasaDeVi",
@@ -23,7 +23,11 @@
         "CampanarEpicWin",
         "ComMésLleisMésMals",
         "DesQueHiHaCampanesHiHaBatalles",
-        "QueNoTAtrapiElTemps"
+        "QueNoTAtrapiElTemps",
+	"ElTempsPassaILaJoanaBalla",
+	"TantesHoresTantsRemeis",
+	"UnaHoraDeVidaÉsBona",
+	"UnaHoraNoTéMida"
     ],
 
     "special_tags": {
@@ -39,7 +43,9 @@
             "CapDAnySerèTotLAnyVaBé",
             "DesprésDeCapDAnyFiguesSequesPerCompany",
             "GeladaDeCapDAnyPaPerTotLAny",
-            "MissaDeCapDAnyServeixPerATotLAny"
+            "MissaDeCapDAnyServeixPerATotLAny",
+	    "AnyNouVidaNova",
+	    "PrimerDAnyLleganyósAnyPocVenturós"
         ],
         "5/1": [
             "ElDiaDeReisParlenElsEstels",
@@ -68,8 +74,18 @@
             "FontDeSantaInspiració"
         ],
         "11/9": [
-            "BonCopDeFalç"
+            "BonCopDeFalç",
+	    "1714",
+	    "LaDiada",
+	    "FreedomForCatalonia"
         ],
+	"1/11": [
+	    "PerTotsSantsCapesIMocadorsGrans",
+	    "PerTotsSantsINoMésEnllàHasDeSembrar",
+	    "PerTotsSantsLesOlivesALesMans",
+	    "PerTotsSantsSembratsElsCamps",
+	    "QuiSembraPerTotsSantsSembraBlatICullEscarabats"
+	],
         "24/12": [
             "CagaTió",
             "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
@@ -80,22 +96,28 @@
             "ANadalFredComCal",
             "ANadalUnPasDePardal",
             "BoiresPerNadalNoFanBéNiMal",
-            "ElViDeNadalNiEmborratxaNiFaMal"
+            "ElViDeNadalNiEmborratxaNiFaMal",
+	    "PerNadalQuiResNoEstrenaResNoVal",
+	    "PerNadalISantEsteveTothomACasaSeva"
         ],
         "26/12": [
             "SantEsteve",
             "CanelonsFoodPorn",
-            "ASantEsteveUnPasDeLlebre"
+            "ASantEsteveUnPasDeLlebre",
+	    "PerNadalISantEsteveTothomACasaSeva"
         ],
         "28/12": [
             "DiaDelsInnocents",
             "NoFacisLlufa",
             "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
-            "ElsInnocentsPosenLlufes"
+            "ElsInnocentsPosenLlufes",
+	    "NoFacisElNinot",
+	    "Innocentada"
         ],
         "31/12": [
             "LHomeDelsNassos",
-            "ApedaçantSArribaAlCapDAny"
+            "ApedaçantSArribaAlCapDAny",
+	    "SantSilvestreÉsElDarrerVespre"
         ]
     },
 
@@ -110,49 +132,49 @@
         "1:30": "Dos quarts de dues 🕜 ",
         "1:45": "Tres quarts de dues",
 
-        "2:00": "Les dues en punt",
+        "2:0": "Les dues en punt 🕑 ",
         "2:15": "Un quart de tres",
-        "2:30": "Dos quarts de tres",
+        "2:30": "Dos quarts de tres 🕝 ",
         "2:45": "Tres quarts de tres",
 
-        "3:00": "Les tres en punt",
+        "3:0": "Les tres en punt 🕒 ",
         "3:15": "Un quart de quatre",
-        "3:30": "Dos quarts de quatre",
+        "3:30": "Dos quarts de quatre 🕞 ",
         "3:45": "Tres quarts de quatre",
 
-        "4:0": "Les quatre en punt",
+        "4:0": "Les quatre en punt 🕓 ",
         "4:15": "Un quart de cinc",
-        "4:30": "Dos quarts de cinc",
+        "4:30": "Dos quarts de cinc 🕟 ",
         "4:45": "Tres quarts de cinc",
 
-        "5:0": "Les cinc en punt",
+        "5:0": "Les cinc en punt 🕔 ",
         "5:15": "Un quart de sis",
-        "5:30": "Dos quarts de sis",
+        "5:30": "Dos quarts de sis 🕠 ",
         "5:45": "Tres quarts de sis",
 
-        "6:0": "Les sis en punt",
+        "6:0": "Les sis en punt 🕕 ",
         "6:15": "Un quart de set",
-        "6:30": "Dos quarts de set",
+        "6:30": "Dos quarts de set 🕡 ",
         "6:45": "Tres quarts de set",
 
-        "7:0": "Les set en punt",
+        "7:0": "Les set en punt 🕖 ",
         "7:15": "Un quart de vuit",
-        "7:30": "Dos quarts de vuit",
+        "7:30": "Dos quarts de vuit 🕢 ",
         "7:45": "Tres quarts de vuit",
 
-        "8:0": "Les vuit en punt",
+        "8:0": "Les vuit en punt 🕗 ",
         "8:15": "Un quart de nou",
-        "8:30": "Dos quarts de nou",
+        "8:30": "Dos quarts de nou 🕣 ",
         "8:45": "Tres quarts de nou",
 
-        "9:0": "Les nou en punt",
+        "9:0": "Les nou en punt 🕘 ",
         "9:15": "Un quart de deu",
-        "9:30": "Dos quarts de deu",
+        "9:30": "Dos quarts de deu 🕤 ",
         "9:45": "Tres quarts de deu",
 
-        "10:0": "Les deu en punt ",
+        "10:0": "Les deu en punt 🕙 ",
         "10:15": "Un quart d'onze",
-        "10:30": "Dos quarts d'onze",
+        "10:30": "Dos quarts d'onze 🕥 ",
         "10:45": "Tres quarts d'onze",
 
         "11:0": "Les onze en punt 🕚 ",

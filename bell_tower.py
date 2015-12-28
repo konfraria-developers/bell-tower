@@ -56,7 +56,8 @@ class BellTower(object):
 
         # build tweet - catch random TAGS
         if month_day_key in self.special_tags:
-            tags = random.sample(self.special_tags, self.num_tags)
+            tags = random.sample(self.special_tags[month_day_key],
+                                 self.num_tags)
         else:
             tags = random.sample(self.tags, self.num_tags)
 
