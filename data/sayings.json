@@ -160,10 +160,45 @@
 
     "month": {
         "1": [
-            "«Quan el mussol canta en gener, un altre hivernve»"
+            "«Quan el mussol canta en gener, un altre hivernve»",
+	    "«Pel desembre i pel gener, no siguis matiner»",
+	    "«Al gener, tanca la porta i encén el braser»",
+	    "«Feina de gener no la canviïs per diner»",
+	    "«Matiner de gener, gastador d'oli»",
+	    "«Matiner de gener, que així que surt ja es pon»",
+	    "«Mes de gener, mes malfeiner»",
+	    "«Pel gener així que matineja ja vespreja»",
+	    "«Pel gener, el millor ofici és pastisser»",
+	    "«Si al gener la merita va per l'horta, fes foc i tanca la porta»",
+	    "«El sol de gener emmascara més que un carboner»",
+	    "«Si el gripau canta pel gener un any de fam ve»",
+	    "«Segons sia el gener menjaràs el pa de l'any que ve»",
+	    "«Pollastre de gener, cada ploma val un diner»",
+	    "«Mata el porc pel gener, si vols que es conservi bé»",
+	    "«Gener florit, abellar ric»",
+	    "«Gat miolador, gener a la porta»"
         ],
         "2": [
-            "«Febrer»"
+	    "«A fi de febrer, jornal enter»",
+	    "«El febrer, de tard o d'hora l'ha de fer»",
+	    "«El febrer avergonyit es tapa la cara i surt de nit»",
+	    "«El que balla pel febrer poca feina ha de fer»",
+	    "«Febrer el curt, brau i tossut»",
+	    "«Febrer el curt, si entra dolent, pitjor en surt»",
+	    "«Mes de febrer, mes mentider»",
+	    "«A pesar del febrer, ha de florir l'ametller»",
+	    "«Pel mes de febrer un dia dolent i els altres també»",
+	    "«Pel mes de febrer, una estona al sol i una estona al braser»",
+	    "«Sia a l'entrar, sia al sortir, el febrer dóna que dir»",
+	    "«Si el febrer no febreja ni el març marceja, tot l'any bogeja»",
+	    "«Si pel febrer calent estàs, per Pasqua tremolaràs»",
+	    "«Sol matar més el febrer que el carnisser»",
+	    "«Sol de febrer, mai dura un dia sencer»",
+	    "«Febrer ventós, cara de gos»",
+	    "«La neu al febrer, marxa com un gos llebrer»",
+	    "«Si el febrer riu, el fred reviu»",
+	    "«Si no plou pel febrer, mal va el graner»",
+	    "«Si plou pel febrer, tot va bé»"
         ],
         "3": [
             "«Març»"
@@ -193,7 +228,11 @@
             "«Novembre»"
         ],
         "12": [
-            "«Desembre»"
+	    "«Boires pel desembre, ni pluges ni neus són de tembre»",
+	    "«Desembre mullat, gener ben gelat»",
+	    "«Desembre nevat, bon any per al blat»",
+	    "«Pel desembre i pel gener, no siguis matiner»",
+	    "«Qui el desembre acabarà, any nou veurà»"
         ]
     },
 
