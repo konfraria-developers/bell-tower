@@ -3,25 +3,25 @@
 
         "1/1": [
             "CapDAny",
-	        "AnyNou",
-	        "TornemAComençar"
+	    "AnyNou",
+	    "TornemAComençar"
         ],
         "5/1": [
             "Reis",
-	        "Cavalcada"
+	    "Cavalcada"
         ],
         "6/1": [
             "Reis"
         ],
         "23/4": [
             "SantJordi",
-	        "Roses",
-	        "RegalaCultura"
+	    "Roses",
+	    "RegalaCultura"
         ],
         "15/5": [
             "SantIsidre",
-	        "SantIsidreLlaurador",
-	        "FestaMajorPetita"
+	    "SantIsidreLlaurador",
+	    "FestaMajorPetita"
         ],
         "15/8": [
             "EnVósEsperaIConfia",
@@ -39,8 +39,8 @@
         ],
         "24/12": [
             "CagaTió",
-	        "NitDeNadal",
-	        "MissaDelGall"
+	    "NitDeNadal",
+	    "MissaDelGall"
         ],
         "25/12": [
             "BonNadal",
@@ -58,7 +58,7 @@
         ],
         "31/12": [
             "LHomeDelsNassos",
-	        "LAnySAcaba"
+	    "LAnySAcaba"
         ]
     },
 
@@ -131,7 +131,7 @@
 
     "hours_interval": {
         "morning": [
-            "BonDiaLaVilaDelPingüí"
+            "BonDiaALaVilaDelPingüí"
         ],
         "night": [
             "DePetAlLlit"
@@ -142,8 +142,8 @@
         "winter": [
             "HivernGlaçat",
             "FaFred!",
-            "LaMarEstaFresquibiris",
-            "AmbElCulALaire"
+            "LaMarEstàFresquibiris",
+            "AmbElCulALAire"
         ],
         "summer": [
             "HivernGlaçat"
