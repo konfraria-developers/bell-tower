@@ -52,7 +52,7 @@ class BellTower(object):
         text = '%s - %s ' % (hour_num, hour_cat)
 
         # get day/month key
-        month_day_key = '%s/%s' % (date.month, date.date)
+        month_day_key = '%s/%s' % (date.day, date.month)
 
         # build tweet - catch random TAGS
         if month_day_key in self.special_tags:
