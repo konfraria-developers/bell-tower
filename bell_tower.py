@@ -25,6 +25,7 @@ class BellTower(object):
         # internal attributes
         self.num_tags = 1
         self.num_sayings = 1
+        self.periodicity = 15
         self.max_tweet_char = 140
 
     def load_data(self, path_file):
@@ -33,7 +34,7 @@ class BellTower(object):
 
     def tweet(self, date):
 
-        if date.minute % 15 != 0:
+        if date.minute % self.periodicity != 0:
             raise Exception('Minutes must be multiple of 15')
 
         text = ''
