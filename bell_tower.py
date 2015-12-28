@@ -78,18 +78,18 @@ class BellTower(object):
         if key_day in tokens['day_month'][key_day]:
 
             keys_list = ['day_month'] * 50 +          \
-                        ['month'] * 25 +              \
-                        ['calendar_interval'] * 15 +  \
+                        ['other'] * 25 +              \
+                        ['month'] * 15 +  \
                         ['day_week'] * 7 +            \
                         ['hours_interval'] * 2 +      \
-                        ['other'] * 1
+                        ['calendar_interval'] * 1
         else:
 
-            keys_list = ['month'] * 50 +              \
-                        ['calendar_interval'] * 25 +  \
-                        ['day_week'] * 15 +           \
+            keys_list = ['day_week'] * 50 +              \
+                        ['other'] * 25 +  \
+                        ['month'] * 15 +           \
                         ['hours_interval'] * 7 +      \
-                        ['other'] * 3
+                        ['calendar_interval'] * 3
 
         # choode weighted random keys
         key = str(random.choice(keys_list))
