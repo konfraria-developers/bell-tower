@@ -84,25 +84,70 @@
     "day_week": {
 
         "1": [
-            "ElsDillunsEsComprenLlums"
+            "«Bon dilluns, bona setmana»",
+            "«El dilluns, el sabater no pega punts» 👞",
+            "«Els qui es casen en dilluns, al cap de l'any són difunts» 💍",
+            "«En dilluns i en dimarts, no t'hi casis ni t'embarcs» 💍",
+            "«Entre dilluns i dimarts, molt poquet avançaràs» 👣",
+            "«Qui no té por al dilluns, no té por al dimoni» 👹",
+            "«Bugada del dilluns, esquinça els punts»",
+            "«Casament en dilluns, al cap de l'any o tres o un» 💍",
+            "«El dilluns, a comprar lluç» 🐟"
         ],
         "2": [
-            "ElsDimartsEsComprenNaps"
+            "«En dilluns i en dimarts, no t'hi casis ni t'embarcs» 💍"
+            "«Entre dilluns i dimarts, molt poquet avançaràs» 👣",
+            "«Cada dimarts té el seu diumenge»",
+            "«Començar una feina en dimarts, mala cosa»",
+            "«Dimarts, faves a grapats»",
+            "«Dimarts, ni embarcats ni casats» 💍",
+            "«Dimarts, pels seus pecats, la vella no fila»",
+            "«Per als desgraciats, tots los dies són dimats»",
+            "«Quan un home és desgraciat, tots els dies són dimarts»",
+            "«Cada dimarts porta el seu mal»",
+            "«No hi ha cap dimarts sense pluja» ☔"
         ],
         "3": [
-            "ElsDimecresTotShoMenja"
+            "«El dimecres, a vendre nespres»",
+            "«El dimecres lluna nova, per tot l'any és desastrosa» 🌚",
+            "«Calçada en dimecres, pluja abans de festes» ☔",
+            "«Dimecres, el cul me llepes» 👅",
+            "«Dimecres, es burjons creixen»"
         ],
         "4": [
-            "ElsDijousEsComprenOus"
+            "«Si el dijous es pon amb capa, de tres dies no s'escapa»",
+            "«Al mig, com el dijous»",
+            "«Dijous passat, setmana a terra»",
+            "«El dijous, el peix es pesca sol» 🎣",
+            "«El dijous festa pels bous» 🐂",
+            "«El dijous menja bous» 🐂"
         ],
         "5": [
-            "ElsDivendresFabesTendres"
+            "«Bon divendres, mal diumenge»",
+            "«De divendres a dissabte, tots els pobres van de capta»",
+            "«El divendres és de tembre»",
+            "«No hi ha cap setmana sense el seu divendres»",
+            "«No hi ha divendres sense dol, ni dissabte sense sol» ☀",
+            "«Qui riu en divendres, plora en diumenge» 😭",
+            "«Divendres, dia d'ull prendre»",
+            "«Donar sal a les ovelles en divendres és la desgràcia del ramat» 🐐🐏"
         ],
         "6": [
-            "ElsDissabtesTotShoGasta"
+            "«No hi ha divendres sense dol, ni dissabte sense sol» ☀",
+            "«Bona truita, bon salmó, bon dissabte si fa sol» ☀",
+            "«Dissabte, dia de recapte»",
+            "«Dissabte, la vella pasta» 👵",
+            "«Qui ho espera p'es dissabte, dejuna, manlleva i gasta» 💸",
+            "«Dissabte, faves en recapte»"
         ],
         "7": [
-            "ElDiumengeElCulEtPenja"
+            "«El diumenge, dia de botxí, perquè no penja»",
+            "«El diumenge, com que no es treballa, es menja» 🍲",
+            "«En diumenge treballar, més s'hi perd que hi va a guanyar»",
+            "«Feina feta en diumenge, el dimoni la se menja» 👹",
+            "«Qui en diumenge treballa, en dilluns s'ho malgasta» 💸",
+            "«Qui fa feina en diumenge, no fa cases amb arc»",
+	    "«Qui treballa, menja, i va bonic el diumenge» 🎩"
         ]
     },
 
