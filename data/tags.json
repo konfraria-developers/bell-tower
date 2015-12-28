@@ -2,41 +2,26 @@
     "day_month": {
 
         "1/1": [
-            "ApedaçantSArribaAlCapDAny",
-            "CapDAnyEnDijousPortaMalsDeCor",
-            "CapDAnyEnDimartsPortaMalDeCap",
-            "CapDAnyEnDiumengeVenElsBousINoSembris",
-            "CapDAnyEnDivendresPortaMalDeVentre",
-            "CapDAnyGelatAnyDeMoltBlat",
-            "CapDAnyGelatMoltPaAssegurat",
-            "CapDAnyLleganyMalAny",
-            "CapDAnySerèTotLAnyVaBé",
-            "DesprésDeCapDAnyFiguesSequesPerCompany",
-            "GeladaDeCapDAnyPaPerTotLAny",
-            "MissaDeCapDAnyServeixPerATotLAny",
-            "AnyNouVidaNova",
-            "PrimerDAnyLleganyósAnyPocVenturós"
+            "CapDAny",
+	    "AnyNou",
+	    "TornemAComençar"
         ],
         "5/1": [
-            "ElDiaDeReisParlenElsEstels",
-            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
-            "LHivernVertaderPelsReisElFredPrimer"
+            "Reis",
+	    "Cavalcada"
         ],
         "6/1": [
-            "DesprésDelsReisTothomÉsBonPagès",
-            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
-            "LHivernVertaderPelsReisElFredPrimer"
+            "Reis"
         ],
         "23/4": [
-            "BonSantJordiISantaCreuHiHauràViPertotArreu",
-            "ElBonPagèsPerSantJordiJaSapElQueFaràLOrdi",
-            "NoDiguisHivernPassatQueSantJordiNoHagiEstat",
-            "SantJordiArribatSurtLaCucaDelForat"
+            "SantJordi",
+	    "Roses",
+	    "RegalaCultura"
         ],
         "15/5": [
-            "ElMaigÉsDolentSiSantIsidreNoPunxa",
-            "QuanSantIsidreÉsArribatTotElBlatJaÉsIgualat",
-            "SantIsidreLlauradorSEmportaLaPlujaIPortaElSol"
+            "SantIsidre",
+	    "SantIsidreLlaurador",
+	    "FestaMajorPetita"
         ],
         "15/8": [
             "EnVósEsperaIConfia",
