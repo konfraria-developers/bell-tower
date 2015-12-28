@@ -79,17 +79,17 @@ class BellTower(object):
 
             keys_list = ['day_month'] * 50 +          \
                         ['month'] * 25 +              \
-                        ['calendar_interval'] * 15 +  \
+                        ['other'] * 15 +  \
                         ['day_week'] * 7 +            \
                         ['hours_interval'] * 2 +      \
-                        ['other'] * 1
+                        ['calendar_interval'] * 1
         else:
 
             keys_list = ['month'] * 50 +              \
-                        ['calendar_interval'] * 25 +  \
+                        ['other'] * 25 +  \
                         ['day_week'] * 15 +           \
                         ['hours_interval'] * 7 +      \
-                        ['other'] * 3
+                        ['calendar_interval'] * 3
 
         # choode weighted random keys
         key = str(random.choice(keys_list))
