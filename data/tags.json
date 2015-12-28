@@ -1,0 +1,200 @@
+{
+    "day_month": {
+
+        "1/1": [
+            "ApedaçantSArribaAlCapDAny",
+            "CapDAnyEnDijousPortaMalsDeCor",
+            "CapDAnyEnDimartsPortaMalDeCap",
+            "CapDAnyEnDiumengeVenElsBousINoSembris",
+            "CapDAnyEnDivendresPortaMalDeVentre",
+            "CapDAnyGelatAnyDeMoltBlat",
+            "CapDAnyGelatMoltPaAssegurat",
+            "CapDAnyLleganyMalAny",
+            "CapDAnySerèTotLAnyVaBé",
+            "DesprésDeCapDAnyFiguesSequesPerCompany",
+            "GeladaDeCapDAnyPaPerTotLAny",
+            "MissaDeCapDAnyServeixPerATotLAny",
+            "AnyNouVidaNova",
+            "PrimerDAnyLleganyósAnyPocVenturós"
+        ],
+        "5/1": [
+            "ElDiaDeReisParlenElsEstels",
+            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
+            "LHivernVertaderPelsReisElFredPrimer"
+        ],
+        "6/1": [
+            "DesprésDelsReisTothomÉsBonPagès",
+            "ElsReisClarsIAssolellatsTenimDosHivernsAssegurats",
+            "LHivernVertaderPelsReisElFredPrimer"
+        ],
+        "23/4": [
+            "BonSantJordiISantaCreuHiHauràViPertotArreu",
+            "ElBonPagèsPerSantJordiJaSapElQueFaràLOrdi",
+            "NoDiguisHivernPassatQueSantJordiNoHagiEstat",
+            "SantJordiArribatSurtLaCucaDelForat"
+        ],
+        "15/5": [
+            "ElMaigÉsDolentSiSantIsidreNoPunxa",
+            "QuanSantIsidreÉsArribatTotElBlatJaÉsIgualat",
+            "SantIsidreLlauradorSEmportaLaPlujaIPortaElSol"
+        ],
+        "15/8": [
+            "EnVósEsperaIConfia",
+            "FestaMajor",
+            "FontDeSantaInspiració"
+        ],
+        "11/9": [
+            "BonCopDeFalç",
+            "1714",
+            "LaDiada",
+            "FreedomForCatalonia"
+        ],
+        "1/11": [
+            "PerTotsSantsCapesIMocadorsGrans",
+            "PerTotsSantsINoMésEnllàHasDeSembrar",
+            "PerTotsSantsLesOlivesALesMans",
+            "PerTotsSantsSembratsElsCamps",
+            "QuiSembraPerTotsSantsSembraBlatICullEscarabats"
+        ],
+        "24/12": [
+            "CagaTió",
+            "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
+        ],
+        "25/12": [
+            "BonNadal",
+            "NoSiguisTanCaganer",
+            "ANadalFredComCal",
+            "ANadalUnPasDePardal",
+            "BoiresPerNadalNoFanBéNiMal",
+            "ElViDeNadalNiEmborratxaNiFaMal",
+            "PerNadalQuiResNoEstrenaResNoVal",
+            "PerNadalISantEsteveTothomACasaSeva"
+        ],
+        "26/12": [
+            "SantEsteve",
+            "CanelonsFoodPorn",
+            "ASantEsteveUnPasDeLlebre",
+            "PerNadalISantEsteveTothomACasaSeva"
+        ],
+        "28/12": [
+            "DiaDelsInnocents",
+            "NoFacisLlufa",
+            "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
+            "ElsInnocentsPosenLlufes",
+            "NoFacisElNinot",
+            "Innocentada"
+        ],
+        "31/12": [
+            "LHomeDelsNassos",
+            "ApedaçantSArribaAlCapDAny",
+            "SantSilvestreÉsElDarrerVespre"
+        ]
+    },
+
+    "day_week": {
+
+        "1": [
+            "ElsDillunsEsComprenLlums"
+        ],
+        "2": [
+            "ElsDimartsEsComprenNaps"
+        ],
+        "3": [
+            "ElsDimecresTotShoMenja"
+        ],
+        "4": [
+            "ElsDijousEsComprenOus"
+        ],
+        "5": [
+            "ElsDivendresFabesTendres"
+        ],
+        "6": [
+            "ElsDissabtesTotShoGasta"
+        ],
+        "7": [
+            "ElDiumengeElCulEtPenja"
+        ]
+    },
+
+    "month": {
+        "1": [
+            "TODO"
+        ],
+        "2": [
+            "TODO"
+        ],
+        "3": [
+            "TODO"
+        ],
+        "4": [
+            "TODO"
+        ],
+        "5": [
+            "TODO"
+        ],
+        "6": [
+            "TODO"
+        ],
+        "7": [
+            "TODO"
+        ],
+        "8": [
+            "TODO"
+        ],
+        "9": [
+            "TODO"
+        ],
+        "10": [
+            "TODO"
+        ],
+        "11": [
+            "TODO"
+        ],
+        "12": [
+            "TODO"
+        ]
+    },
+
+    "hours_interval": {
+        "morning": [
+            "BonDiaLaVilaDelPingüí"
+        ]
+    },
+
+    "calendar_interval": {
+        "interval_1": [
+            "TODO"
+        ]
+    },
+
+    "other": [
+        "TempusFugit",
+        "TalFaràsTalTorbaràs",
+        "QuiDiaPassaAnyEmpeny",
+        "SócUnCampanarDigital",
+        "AlMeuGermàAnalògicElVanCensurar",
+        "ViscaLaPalmaDeCervelló",
+        "SomDeLaPalma",
+        "LaKonfrariaDeLaVila",
+        "QuiNoPotSegarEspigola",
+        "QuiMatinaFaFarina",
+        "NoCallaréDeNit",
+        "LaCampanaNoVaAMissaPeròATotsAvisa",
+        "TirenMésDuesCampanesQueDuesCarretes",
+        "DonesCoetsICampanesNoTenenAmo",
+        "CampanesAlVolPilotesALOlla",
+        "CampanarDePiCasaDeVi",
+        "PerCampanaLaQueEmPenja",
+        "CampanarConnectingPeople",
+        "TotsDuemUnaCampanaDaltDelCap",
+        "CadaPobleElSeuEstil",
+        "CampanarEpicWin",
+        "ComMésLleisMésMals",
+        "DesQueHiHaCampanesHiHaBatalles",
+        "QueNoTAtrapiElTemps",
+        "ElTempsPassaILaJoanaBalla",
+        "TantesHoresTantsRemeis",
+        "UnaHoraDeVidaÉsBona",
+        "UnaHoraNoTéMida"
+    ]
+}

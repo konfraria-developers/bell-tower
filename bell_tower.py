@@ -9,8 +9,10 @@ class BellTower(object):
     """docstring for BellTower"""
     def __init__(self, credentials_path, data_path):
         # internal data
-        self.credentials = self.load_credentials(credentials_path)
-        self.tags, self.special_tags, self.time = self.load_data(data_path)
+        self.credentials = self.load_data(credentials_path)
+        self.tags = self.load_data(data_path + 'tags.json')
+        self.sayings = self.load_data(data_path + 'sayings.json')
+        self.time = self.load_data(data_path + 'time.json')
 
         # TwitterAPI
         self.api = TwitterAPI(
@@ -21,19 +23,19 @@ class BellTower(object):
         )
 
         # internal attributes
+        self.num_tags = 1
+        self.num_sayings = 1
         self.max_tweet_char = 140
-        self.num_tags = 3
 
     def load_data(self, path_file):
-        data = open(path_file, 'r').read()
-        data_json = json.loads(data)
-        return data_json['tags'], data_json['special_tags'], data_json['time']
-
-    def load_credentials(self, path_file):
         data = open(path_file, 'r').read()
         return json.loads(data)
 
     def tweet(self, date):
+
+        if date.minute % 15 != 0:
+            raise Exception('Minutes must be multiple of 15')
+
         text = ''
         while len(text) <= 0 or len(text) > self.max_tweet_char:
             text = self.process_text(date)
@@ -43,6 +45,18 @@ class BellTower(object):
 
     def process_text(self, date):
 
+        # build tweet message - hour
+        text = self.get_hour(date)
+
+        # build tweet message - saying
+        text += ' ' + self.get_random_token(self.sayings, date)
+
+        # build tweet message - tag
+        text += ' #%s' % self.get_random_token(self.tags, date)
+
+        return text
+
+    def get_hour(self, date):
         # take hour value and parse hour to AM system
         hour = date.hour % 12
 
@@ -51,24 +65,57 @@ class BellTower(object):
         hour_cat = self.time[hour_key]
         hour_num = str(date).split()[1][:5]
 
-        # build tweet - HOUR
-        text = '%s - %s ' % (hour_num, hour_cat)
+        # hour message
+        text = '%s - %s' % (hour_num, hour_cat)
+        return text
+
+    def get_random_token(self, tokens, date):
 
         # get day/month key
-        month_day_key = '%s/%s' % (date.day, date.month)
+        key_day = '%s/%s' % (date.day, date.month)
 
-        # build tweet - catch random TAGS
-        if month_day_key in self.special_tags:
-            tags = random.sample(self.special_tags[month_day_key],
-                                 self.num_tags)
+        if key_day in tokens['day_month'][key_day]:
+
+            keys_list = ['day_month'] * 50 +          \
+                        ['month'] * 25 +              \
+                        ['calendar_interval'] * 15 +  \
+                        ['day_week'] * 7 +            \
+                        ['hours_interval'] * 2 +      \
+                        ['other'] * 1
         else:
-            tags = random.sample(self.tags, self.num_tags)
 
-        # append tags tot tweet
-        for t in tags:
-            text = text + '#%s ' % t
+            keys_list = ['month'] * 50 +              \
+                        ['calendar_interval'] * 25 +  \
+                        ['day_week'] * 15 +           \
+                        ['hours_interval'] * 7 +      \
+                        ['other'] * 3
 
-        return text
+        # choode weighted random keys
+        key = str(random.choice(keys_list))
+        key = 'hours_interval'
+
+        if key == 'day_month':
+            key_ = key_day
+
+        elif key == 'month':
+            key_ = str(date.month)
+
+        elif key == 'calendar_interval':
+            key_ = 'interval_1'
+
+        elif key == 'day_week':
+            key_ = str(date.weekday() + 1)
+
+        elif key == 'hours_interval':
+            key_ = 'morning'
+
+        # get a random tokens
+        if key == 'other':
+            tag = random.sample(tokens[key], 1)
+        else:
+            tag = random.sample(tokens[key][key_], 1)
+
+        return tag[0]
 
 if __name__ == '__main__':
 
