@@ -79,15 +79,15 @@ class BellTower(object):
 
             keys_list = ['day_month'] * 50 +          \
                         ['other'] * 25 +              \
-                        ['month'] * 15 +  \
+                        ['month'] * 15 +              \
                         ['day_week'] * 7 +            \
                         ['hours_interval'] * 2 +      \
                         ['calendar_interval'] * 1
         else:
 
-            keys_list = ['day_week'] * 50 +              \
-                        ['other'] * 25 +  \
-                        ['month'] * 15 +           \
+            keys_list = ['other'] * 50 +              \
+                        ['month'] * 25 +              \
+                        ['day_week'] * 15 +           \
                         ['hours_interval'] * 7 +      \
                         ['calendar_interval'] * 3
 
