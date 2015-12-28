@@ -35,44 +35,30 @@
             "FreedomForCatalonia"
         ],
         "1/11": [
-            "PerTotsSantsCapesIMocadorsGrans",
-            "PerTotsSantsINoMésEnllàHasDeSembrar",
-            "PerTotsSantsLesOlivesALesMans",
-            "PerTotsSantsSembratsElsCamps",
-            "QuiSembraPerTotsSantsSembraBlatICullEscarabats"
+            "TotsSants"
         ],
         "24/12": [
             "CagaTió",
-            "BonaCasaIBonaBrasaBonaBrasaIBonTióIBonNadalQueDéuEnsDó"
+	    "NitDeNadal",
+	    "MissaDelGall"
         ],
         "25/12": [
             "BonNadal",
-            "NoSiguisTanCaganer",
-            "ANadalFredComCal",
-            "ANadalUnPasDePardal",
-            "BoiresPerNadalNoFanBéNiMal",
-            "ElViDeNadalNiEmborratxaNiFaMal",
-            "PerNadalQuiResNoEstrenaResNoVal",
-            "PerNadalISantEsteveTothomACasaSeva"
+            "NoSiguisTanCaganer"
         ],
         "26/12": [
             "SantEsteve",
-            "CanelonsFoodPorn",
-            "ASantEsteveUnPasDeLlebre",
-            "PerNadalISantEsteveTothomACasaSeva"
+            "CanelonsFoodPorn"
         ],
         "28/12": [
             "DiaDelsInnocents",
             "NoFacisLlufa",
-            "PelsSantsInnocentsNiDonisNiDeixisAAmicsNiParents",
-            "ElsInnocentsPosenLlufes",
             "NoFacisElNinot",
             "Innocentada"
         ],
         "31/12": [
             "LHomeDelsNassos",
-            "ApedaçantSArribaAlCapDAny",
-            "SantSilvestreÉsElDarrerVespre"
+	    "LAnySAcaba"
         ]
     },
 
@@ -155,31 +141,17 @@
     "other": [
         "TempusFugit",
         "TalFaràsTalTorbaràs",
-        "QuiDiaPassaAnyEmpeny",
         "SócUnCampanarDigital",
         "AlMeuGermàAnalògicElVanCensurar",
         "ViscaLaPalmaDeCervelló",
         "SomDeLaPalma",
         "LaKonfrariaDeLaVila",
-        "QuiNoPotSegarEspigola",
-        "QuiMatinaFaFarina",
         "NoCallaréDeNit",
-        "LaCampanaNoVaAMissaPeròATotsAvisa",
         "TirenMésDuesCampanesQueDuesCarretes",
-        "DonesCoetsICampanesNoTenenAmo",
-        "CampanesAlVolPilotesALOlla",
-        "CampanarDePiCasaDeVi",
         "PerCampanaLaQueEmPenja",
         "CampanarConnectingPeople",
-        "TotsDuemUnaCampanaDaltDelCap",
         "CadaPobleElSeuEstil",
         "CampanarEpicWin",
-        "ComMésLleisMésMals",
-        "DesQueHiHaCampanesHiHaBatalles",
-        "QueNoTAtrapiElTemps",
-        "ElTempsPassaILaJoanaBalla",
-        "TantesHoresTantsRemeis",
-        "UnaHoraDeVidaÉsBona",
-        "UnaHoraNoTéMida"
+        "QueNoTAtrapiElTemps"
     ]
 }
