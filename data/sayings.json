@@ -27,6 +27,13 @@
             "«Els Reis clars i assolellats ☀, tenim dos hiverns assegurats ❄❄» 👑👑👑",
             "«L'hivern vertader pels Reis el fred primer» 👑👑👑"
         ],
+	"2/2": [
+	    "«La Candelera la neu espera; si ja ha nevat, l'hivern ha passat; si no ha nevat, ja nevarà»",
+	    "«Si la Candelera plora, l'hivern és fora; però si fa vent, tres mesos més d'hivern»"
+	],
+	"5/2": [
+	    "«Si per santa Àgada plou, quaranta dies més d'hivern»"
+	],
         "23/4": [
             "«Bon Sant Jordi i Santa Creu, hi haurà vi per tot arreu» 🍷🌹",
             "«El bon pagès per Sant Jordi ja sap el que farà l'ordi» 🌹🐲",
@@ -153,7 +160,7 @@
 
     "month": {
         "1": [
-            "«Gener»"
+            "«Quan el mussol canta en gener, un altre hivernve»"
         ],
         "2": [
             "«Febrer»"
@@ -198,7 +205,66 @@
 
     "calendar_interval": {
         "interval_1": [
-            "«Hivern»"
+            "«A l'hivern, boirina i la neu per veïna»",
+	    "«A l'hivern, bona sopa i vi calent»",
+	    "«A l'hivern, dia i solet; lluna i nit, quan no fa fred»",
+	    "«A l'hivern, el millor amic és un bon abric»",
+	    "«A l'hivern, forner i, a l'estiu, taverner»",
+	    "«Del sol de l'hivern i dels núvols d'estiu, enganyats eixiu»",
+	    "«En hivern, tot perd son govern»",
+	    "«Fang a l'hivern i pols a l'estiu, tot el camp reviu»",
+	    "«Hivern fredós, estiu calorós»",
+	    "«Hivern plujós, estiu abundós»",
+	    "«L'hivern té mal govern»",
+	    "«Mal hivern, primavera d'infern»",
+	    "«Orenetes tardanes, hi ha hivern per setmanes»",
+	    "«Pluja d'hivern, dia d'infern»",
+        ],
+        "interval_2": [
+            "«En el llit, tot l'any és primavera»",
+	    "«L'hivern dóna les cartes i la primavera fa el joc»",
+	    "«La falsa primavera enganya el bestiar»",
+	    "«La primavera la sang altera»",
+	    "«No hi ha primavera sense flors ni estiu sense calors»",
+	    "«Oreneta primerenca, primavera calorenca»",
+	    "«Tramuntana de primavera, pluja al darrera»",
+	    "«Una flor no fa estiu; ni dues, primavera»",
+	    "«Una oreneta no fa primavera»"
+        ],
+        "interval_3": [
+            "«A l'hivern, forner i, a l'estiu, taverner»",
+	    "«Del sol de l'hivern i dels núvols d'estiu, enganyats eixiu»",
+	    "«Fang a l'hivern i pols a l'estiu, tot el camp reviu»",
+	    "«Una flor no fa estiu; ni dues, primavera»",
+	    "«A l'estiu, filosa no diu»",
+	    "«A l'estiu, tot reviu»",
+	    "«A l'estiu tota cuca viu»",
+	    "«Cada cosa a son temps, i d'estiu cigales»",
+	    "«Del bon estiu, el pagès viu»",
+	    "«On has passat l'estiu, passa l'hivern»",
+	    "«Paraules d'estiu, segons qui les diu»",
+	    "«Qui diu mal de l'estiu, no sap el que diu»",
+	    "«Una mosca no fa estiu»",
+	    "«Vianda d'estiu vol regadiu»",
+	    "«Xàfec d'estiu, tota l'aigua cap el riu»",
+	    "«Xàfec d'estiu, fa la meitat del que diu»",
+	    "«Qui a l'estiu sombreja, a l'hivern famoleja»",
+	    "«Pluja d'estiu i plor de bagassa, aviat passa»",
+	    "«Estiu calorós, hivern rigorós»"
+        ],
+        "interval_4": [
+            "«A la tardor, sembrarien si hi hagués saó»",
+	    "«A la tardor, el dia porta espardenyes»",
+	    "«Bou de tardor és cavall de primavera»",
+	    "«Diarrea tardoral, sovint mortal»",
+	    "«La tardor porta tristor»",
+	    "«Malalties tardorals, llargues i mortals»",
+	    "«Pluja de tardor, pluja de saó»",
+	    "«Tardor entrada, panxa tivada»",
+	    "«Tardor i hivern, per al vell, temps d'infern»",
+	    "«Tardor serena, hivernventós; tardor ventosa, hivernserè»",
+	    "«Tardorada dolenta, millor tardana que primerenca»",
+	    "«Verdura per la tardor, per a tu i per a mi, no»",
         ]
     },
 
