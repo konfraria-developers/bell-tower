@@ -3,25 +3,25 @@
 
         "1/1": [
             "CapDAny",
-	    "AnyNou",
-	    "TornemAComençar"
+	        "AnyNou",
+	        "TornemAComençar"
         ],
         "5/1": [
             "Reis",
-	    "Cavalcada"
+	        "Cavalcada"
         ],
         "6/1": [
             "Reis"
         ],
         "23/4": [
             "SantJordi",
-	    "Roses",
-	    "RegalaCultura"
+	        "Roses",
+	        "RegalaCultura"
         ],
         "15/5": [
             "SantIsidre",
-	    "SantIsidreLlaurador",
-	    "FestaMajorPetita"
+	        "SantIsidreLlaurador",
+	        "FestaMajorPetita"
         ],
         "15/8": [
             "EnVósEsperaIConfia",
@@ -39,8 +39,8 @@
         ],
         "24/12": [
             "CagaTió",
-	    "NitDeNadal",
-	    "MissaDelGall"
+	        "NitDeNadal",
+	        "MissaDelGall"
         ],
         "25/12": [
             "BonNadal",
@@ -58,7 +58,7 @@
         ],
         "31/12": [
             "LHomeDelsNassos",
-	    "LAnySAcaba"
+	        "LAnySAcaba"
         ]
     },
 
@@ -89,40 +89,40 @@
 
     "month": {
         "1": [
-            "TODO"
+            "Gener"
         ],
         "2": [
-            "TODO"
+            "Febrer"
         ],
         "3": [
-            "TODO"
+            "Març"
         ],
         "4": [
-            "TODO"
+            "Abril"
         ],
         "5": [
-            "TODO"
+            "Maig"
         ],
         "6": [
-            "TODO"
+            "Juny"
         ],
         "7": [
-            "TODO"
+            "Juliol"
         ],
         "8": [
-            "TODO"
+            "Agost"
         ],
         "9": [
-            "TODO"
+            "Setembre"
         ],
         "10": [
-            "TODO"
+            "Octubre"
         ],
         "11": [
-            "TODO"
+            "Novembre"
         ],
         "12": [
-            "TODO"
+            "Desembre"
         ]
     },
 
@@ -134,7 +134,7 @@
 
     "calendar_interval": {
         "interval_1": [
-            "TODO"
+            "HivernGlaçat"
         ]
     },
 

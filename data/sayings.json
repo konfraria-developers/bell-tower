@@ -95,7 +95,7 @@
             "«El dilluns, a comprar lluç» 🐟"
         ],
         "2": [
-            "«En dilluns i en dimarts, no t'hi casis ni t'embarcs» 💍"
+            "«En dilluns i en dimarts, no t'hi casis ni t'embarcs» 💍",
             "«Entre dilluns i dimarts, molt poquet avançaràs» 👣",
             "«Cada dimarts té el seu diumenge»",
             "«Començar una feina en dimarts, mala cosa»",
@@ -147,58 +147,58 @@
             "«Feina feta en diumenge, el dimoni la se menja» 👹",
             "«Qui en diumenge treballa, en dilluns s'ho malgasta» 💸",
             "«Qui fa feina en diumenge, no fa cases amb arc»",
-	    "«Qui treballa, menja, i va bonic el diumenge» 🎩"
+            "«Qui treballa, menja, i va bonic el diumenge» 🎩"
         ]
     },
 
     "month": {
         "1": [
-            "TODO"
+            "«Gener»"
         ],
         "2": [
-            "TODO"
+            "«Febrer»"
         ],
         "3": [
-            "TODO"
+            "«Març»"
         ],
         "4": [
-            "TODO"
+            "«Abril»"
         ],
         "5": [
-            "TODO"
+            "«Maig»"
         ],
         "6": [
-            "TODO"
+            "«Juny»"
         ],
         "7": [
-            "TODO"
+            "«Juliol»"
         ],
         "8": [
-            "TODO"
+            "«Agost»"
         ],
         "9": [
-            "TODO"
+            "«Setembre»"
         ],
         "10": [
-            "TODO"
+            "«Octubre»"
         ],
         "11": [
-            "TODO"
+            "«Novembre»"
         ],
         "12": [
-            "TODO"
+            "«Desembre»"
         ]
     },
 
     "hours_interval": {
         "morning": [
-            "«Qui matina, fa farina» :bread:"
+            "«Qui matina, fa farina»"
         ]
     },
 
     "calendar_interval": {
         "interval_1": [
-            "TODO"
+            "«Hivern»"
         ]
     },
 

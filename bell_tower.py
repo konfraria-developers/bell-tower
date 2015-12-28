@@ -50,7 +50,7 @@ class BellTower(object):
         text = self.get_hour(date)
 
         # build tweet message - saying
-        text += ' ' + self.get_random_token(self.sayings, date)
+        text += '\n  %s' % self.get_random_token(self.sayings, date)
 
         # build tweet message - tag
         text += ' #%s' % self.get_random_token(self.tags, date)
