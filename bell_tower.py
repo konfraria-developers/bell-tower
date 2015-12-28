@@ -21,7 +21,7 @@ class BellTower(object):
         )
 
         # internal attributes
-        self.max_tweet_char = 120
+        self.max_tweet_char = 140
         self.num_tags = 3
 
     def load_data(self, path_file):
@@ -34,7 +34,10 @@ class BellTower(object):
         return json.loads(data)
 
     def tweet(self, date):
-        text = self.process_text(date)
+        text = ''
+        while len(text) <= 0 or len(text) > self.max_tweet_char:
+            text = self.process_text(date)
+
         r = self.api.request('statuses/update', {'status': text})
         print('SUCCESS' if r.status_code == 200 else 'FAILURE')
 
