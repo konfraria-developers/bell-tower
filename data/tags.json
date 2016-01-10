@@ -130,11 +130,20 @@
     },
 
     "hours_interval": {
-        "morning": [
+        "0-5": [
+            "Zzzzzz"
+        ],
+        "6-12": [
             "BonDiaALaVilaDelPingüí"
         ],
-        "night": [
-            "DePetAlLlit"
+	"13-15": [
+            "HoraDeDinar"
+        ],
+	"16-20": [
+            "Tarda"
+        ],
+	"21-24": [
+            "BonaNitALaVilaDelPingüí"
         ]
     },
 

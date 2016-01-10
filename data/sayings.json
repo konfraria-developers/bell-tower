@@ -237,11 +237,37 @@
     },
 
     "hours_interval": {
-        "morning": [
-            "«Cada dia pel matí, canta el gall qui-qui-ri-qui»"
+        "0-5": [
+            "«El que de nit es fa, de dia es veu» 👀",
+	    "«Cel estrellat, temps variat» ✨",
+	    "«A l’església l’oració i al llit la funció» 🙏",
+	    "«A bona son, no hi ha llit dur» 💤"
         ],
-        "night": [
-            "«Bona nit bons germans, bona nit»"
+        "6-12": [
+            "«Cada dia pel matí, canta el gall qui-qui-ri-qui» 🐓",
+	    "«L'home matiner, un bon faener» 💪",
+	    "«Qui s'alça al matí, caga on vol» 💩",
+	    "«Qui matina, fa farina» ⏰"
+        ],
+	"13-15": [
+            "«A la taula i al llit, al primer crit» 📢🍴",
+	    "«El dinar, reposat; el sopar, passejat»",
+	    "«A mal menjar o ben menjar, tres vegades beure»",
+	    "«A millor aliment, millor pensament» 🍗",
+	    "«A panxa plena no hi entren penes» 🍗"
+        ],
+	"16-20": [
+            "«A cada ocellet li agrada el seu niuet» 🐥",
+	    "«L'Arc de Sant Martí a la tarda, la pluja ja és passada» 🌈"
+        ],
+	"21-24": [
+            "«Bona nit bons germans, bona nit»",
+	    "«A la taula i al llit, al primer crit» 📢🍴",
+	    "«Cel estrellat, temps variat» ✨",
+	    "«El dinar, reposat; el sopar, passejat»",
+	    "«A la fi es lloa la vida, i a la nit es lloa el dia»",
+	    "«A la casa on de tot hi ha, aviat s’arregla el sopar»",
+	    "«Abans d’anar a dormir, fes un bon pipí»"
         ]
     },
 
@@ -313,7 +339,7 @@
     "other": [
         "«Qui dia passa any empeny» 📆",
         "«Qui no pot segar, espigola» 🚜",
-        "«Qui matina, fa farina» 🍞",
+        "«Què passa? Que el campanar és més gran que la plaça» 🔔",
         "«La campana no va a missa, però a tots avisa» ⛪",
         "«Dones, coets i campanes, no tenen amo» 🚀",
         "«Campanes al vol, pilotes a l'olla»",
@@ -324,6 +350,11 @@
         "«El temps passa i la Joana balla» 💃",
         "«Tantes hores, tants remeis» 💊",
         "«Una hora de vida és bona» ⏳",
-        "«Una hora no té mida» 📏"
+        "«Una hora no té mida» 📏",
+	"«Qui setmanes va comptant, tretze mesos troba a l’any»",
+	"«Hi ha més dies que llonganisses»",
+	"«Com més anys, més desenganys»",
+	"«Amb paciència es guanya el cel»",
+	"«A cada sant li arriba el seu dia»"
     ]
 }
