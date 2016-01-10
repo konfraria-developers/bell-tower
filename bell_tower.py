@@ -33,7 +33,6 @@ class BellTower(object):
         return json.loads(data)
 
     def tweet(self, date):
-
         if date.minute % self.periodicity != 0:
             raise Exception('Minutes must be multiple of 15')
 
@@ -45,38 +44,30 @@ class BellTower(object):
         print('SUCCESS' if r.status_code == 200 else 'FAILURE')
 
     def process_text(self, date):
-
         # build tweet message - hour
         text = self.get_hour(date)
-
         # build tweet message - saying
         text += '\n%s' % self.get_random_token(self.sayings, date)
-
         # build tweet message - tag
         text += ' #%s' % self.get_random_token(self.tags, date)
-
         return text
 
     def get_hour(self, date):
         # take hour value and parse hour to AM system
         hour = date.hour % 12
-
         # produce string for time dict
         hour_key = '%s:%s' % (hour, date.minute)
         hour_cat = self.time[hour_key]
         hour_num = str(date).split()[1][:5]
-
         # hour message
         text = '%s - %s' % (hour_num, hour_cat)
         return text
 
     def get_random_token(self, tokens, date):
-
         # get day/month key
         key_day = '%s/%s' % (date.day, date.month)
 
         if key_day in tokens['day_month']:
-
             keys_list = ['day_month'] * 50 +          \
                         ['other'] * 10 +              \
                         ['month'] * 10 +              \
@@ -84,14 +75,13 @@ class BellTower(object):
                         ['hours_interval'] * 10 +     \
                         ['season'] * 10
         else:
-
             keys_list = ['other'] * 20 +              \
                         ['month'] * 20 +              \
                         ['day_week'] * 20 +           \
                         ['hours_interval'] * 20 +     \
                         ['season'] * 20
 
-        # choode weighted random keys
+        # choose weighted random keys
         key = str(random.choice(keys_list))
 
         if key == 'day_month':
@@ -101,7 +91,22 @@ class BellTower(object):
             key_ = str(date.month)
 
         elif key == 'season':
-            key_ = 'winter'
+            # seasons definitions
+            spring_start = datetime.datetime(date.year, 3, 21)
+            spring_end = datetime.datetime(date.year, 6, 21)
+            summer_start = datetime.datetime(date.year, 6, 21)
+            summer_end = datetime.datetime(date.year, 9, 23)
+            autumn_start = datetime.datetime(date.year, 9, 23)
+            autumn_end = datetime.datetime(date.year, 12, 21)
+            # check current season
+            if date > spring_start and date < spring_end:
+                key_ = 'spring'
+            elif date > summer_start and date < summer_end:
+                key_ = 'summer'
+            elif date > autumn_start and date < autumn_end:
+                key_ = 'autumn'
+            else:
+                key_ = 'winter'
 
         elif key == 'day_week':
             key_ = str(date.weekday() + 1)
