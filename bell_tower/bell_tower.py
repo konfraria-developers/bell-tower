@@ -79,7 +79,7 @@ class BellTower(object):
 		print('SUCCESS' if r.status_code == 200 else 'FAILURE')
 
 	def tweet(self, date):
-		text = process_date(date)
+		text = self.process_date(date)
 		send_tweet(text)
 
 	def process_text(self, date):
