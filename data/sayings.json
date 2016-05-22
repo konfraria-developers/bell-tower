@@ -46,10 +46,50 @@
             "«No diguis hivern passat que Sant Jordi no hagi estat» 🌹🐲",
             "«Sant Jordi arribat, surt la cuca del forat» 🐛"
         ],
+	"1/5": [
+	    "«El primer de maig, a fira me'n vaig»",
+	    "«Primer de maig, a missa me'n vaig» ⛪"
+	],
+	"13/5": [
+	    "«Per Sant Pere Regalat, tot eixut o tot mullat» 🔪👳",
+	    "«Si plou per sant Pere regalat, plou quaranta dies de comptat» 👳☔"
+	],
         "15/5": [
             "«El maig és dolent si Sant Isidre no punxa» ☔",
             "«Quan Sant Isidre és arribat, tot el blat ja és igualat»",
             "«Sant Isidre Llaurador s'emporta la pluja i porta el sol» 🌞"
+	],
+	"23/6": [
+	    "«Per Santa Agripina, sembra la clavellina» 🌺"
+	],
+	"24/6": [
+    	    "«Aigua de Sant Joan, cap guany i molta fam» ☔",
+    	    "«Aigua de Sant Joan, celler buit i molta fam» ☔",
+    	    "«Aigua de Sant Joan, no dóna ni vi ni pa» ☔",
+    	    "«De Sant Joan a Nadal, mig any igual»",
+    	    "«De Sant Joan de juny a Sant Joan de Nadal, mig any per igual» 🎉🎄",
+    	    "«El ral guanyat per Sant Joan, és ral i mig per Nadal» 💰",
+    	    "«Febres per Sant Joan, salut per tot l'any»",
+    	    "«Per Sant Joan i Sant Pere, adéu primavera»",
+    	    "«Per Sant Joan i Sant Pere, no posis taules a l'era»",
+    	    "«Per Sant Joan les olives són com grans de sal; i, per Sant Pere, com grans de pebre»",
+    	    "«Per Sant Joan, el primer bany» 🛀",
+    	    "«Per Sant Joan, les garbes al camp»",
+    	    "«Per Sant Joan, tot es fa gran»",
+    	    "«Qui de la muntanya es vulgui enamorar, per Sant Joan hi ha d'anar» 🌄",
+    	    "«Qui no menja per Sant Joan, és boig o no té pa»",
+    	    "«Sembraràs quan voldràs, però per Sant Joan segaràs»",
+    	    "«Si trona per Sant Joan, totes les nous es corquen» ☁⚡",
+    	    "«Si vols tenir pa, llaura per Sant Joan»",
+    	    "«Trons per Sant Joan, la collita reeixiran» ☁⚡",
+	    "«Entre Sant Joan i Sant Pere, no posis batuda a l'era»",
+    	    "«Tronada de Sant Joan, les nous corcades» ☁⚡"
+	],
+	"29/6": [
+    	    "«Entre Sant Joan i Sant Pere, no posis batuda a l'era»",
+    	    "«Per Sant Pere, garbes a l'era»",
+    	    "«Per Sant Pere, juny enrere, i Sant Pau el tanca amb clau» 🔑",
+    	    "«Sant Pere bon home, Sant Joan bon sant, que curen de ronya i de tot altre mal»"
         ],
         "15/8": [
             "EnVósEsperaIConfia",
@@ -234,19 +274,121 @@
 	    "«Trons en març, fred abril i maig» ⚡"
         ],
         "4": [
-            "«Abril»"
+            "«Una tonyina pel mes d'abril, pel juny més de mil» 🐟🐟🐟"
         ],
         "5": [
-            "«Maig»"
+	    "«A maig, vaig com vaig»",
+	    "«Bodes maials, bodes mortals» 💍💀",
+	    "«Casament de maig, curta durada» 💍",
+	    "«De bodes del maig fruit no en vindrà» 👰🍒",
+	    "«De borra de maig, no me n'empatx»",
+	    "«El maig comença amb una creu, i qui s'hi casa en té dues» 👰➕➕",
+	    "«El mes de les flors, el mes dels plors» 😭🌸",
+	    "«Els apostols et diran quan entra el maig» 🙏",
+    	    "«En el mes de maig, deixa la mosca el bou i se'n va a l'ase» 🐴🐝",
+    	    "«Entre abril i maig, cerca p'es gavatx»",
+    	    "«Febres de maig, salut per tot l'any» 😨",
+    	    "«Febres de maig, són per tot l'any» 😨",
+    	    "«La dona que no es casa pel maig no es casa en tot l'any» 👰",
+    	    "«Llauri qui no llaurà, que el mes de maig entrà»",
+    	    "«Maig, així me'n vaig»",
+    	    "«Ni dona desvergonyida ni planta al maig florida»",
+    	    "«No és bon maig, que el ruc no tremoli a l'estable»",
+	    "«No hi pot haver dos maigs en un any»",
+    	    "«Pel maig, així com vaig»",
+    	    "«Pel maig, floreix el faig i canta el gaig» 🌱🌳",
+    	    "«Qui bon maig ha de tenir, primerenc comença»",
+    	    "«Qui poda en maig i alça en agost, no fa pa ni most»",
+    	    "«Si ha entrat maig o no ha entrat, els apòstols diran la veritat»",
+    	    "«Totes les lletges es casen pel maig» 👰",
+    	    "«Una flor no fa maig» 🌷🌸🌼🌻🌺"
+	    "«Al maig, faves a sacs» 🌱",
+	    "«Abril i maig acompassats, componen tots els sembrats» 🌾",
+   	    "«Al maig, el favar, primerenc o tardà»",
+  	    "«Bolet de maig mata el gavatx» 🍄",
+  	    "«Eixam de maig, jo me'n vaig» 🐝",
+  	    "«El barb, la truita i el gall, menjar de maig» 🐓🐟🍴",
+ 	    "«En el maig, el dia s'allarga i el graner s'escurça»",
+  	    "«Fang de maig, espiga d'agost» 🌾",
+ 	    "«Guarda pa per a maig, i tot l'any en tindràs» 🍞",
+ 	    "«Maig, a segar vaig» 🏃",
+    	    "«Ningú s'alabi del blat, fins que el maig sigui acabat» 🌾",
+    	    "«Pel maig, el cep en flor no vol veure amo ni senyor» 🍄",
+    	    "«Pel maig fonoll, pel cavall» 🌿🐎",
+    	    "«Pel maig, grana l'ordi i rosseja el blat» 🌾",
+    	    "«Pel maig, murta; i pel setembre, fruita»",
+    	    "«Sembra el julivert pel maig i tot l'any en tindràs» 🌿",
+    	    "«Si sembres les bledes al començar el maig, seràs a Nadal i encara en menjaràs»",
+    	    "«Abril plujós i maig ventós, fan l'any ric i profitós» ☔🌀👍",
+    	    "«Aigua de maig, mala pels animals» 💦🙀",
+    	    "«Aigua de maig fa créixer el cabell un raig» 💇",
+    	    "«Aigua de maig, mala pels ramat» 🐐🐐🐐🐐🐐",
+    	    "«Boires de març, fred de maig»",
+    	    "«Començament de maig l'hivern fa revifar»",
+    	    "«Del maig a la meitat, l'hivern acabat»",
+    	    "«Déu nos guard de pols de maig i de fang d'agost»",
+    	    "«El sol de maig estella el cap del burro» ☀🐴",
+    	    "«Fins al dotze de maig l'hivern no diu: 'Me'n vaig'» ⛄👋",
+    	    "«Maig hortolà, palla i poc gra»",
+    	    "«Maig humit, fa el pagès ric» 💵💰",
+    	    "«Maig ventós i juny calent, fan bon vi i bon forment» 🍷",
+    	    "«No és bon maig el que no deixa la bassa plena»",
+    	    "«Pel maig, cada dia un raig» ☀☀☀",
+    	    "«Pel maig, de raig a raig» ☀☀",
+    	    "«Pel maig, els temporals fan mal»",
+    	    "«Pluja de maig, collita segura» ☔",
+    	    "«Pluja de maig i plor de bagassa, en un punt passa» ☔👯"
         ],
         "6": [
-            "«Juny»"
+	    "«En juny, corbella en puny» 🌾",
+    	    "«Al juny, corbella al puny i la roba lluny» 🌾",
+    	    "«Al juny, la falç al puny» 🌾",
+    	    "«Pel juny, la falç al puny» 🌾",
+    	    "«Alzina que no floreix pel juny, tot l'any el porc ne gruny» 🌳🐷",
+    	    "«De Joans, Antons i ases, per totes les cases» 🐴🏡",
+    	    "«De prop o de lluny, Corpus pel juny»",
+    	    "«Dels glans florits pel juny, tot l'any el porc en gruny» 🐖",
+    	    "«El juny hermós és abundós»",
+    	    "«L'herba seca, curta o llarga, pel juny deu estar segada» 🌱",
+    	    "«Juny, juliol i agost, ni dona, ni col, ni most» 👩🍇🚫",
+    	    "«No totes les pagues cauen pel mes de juny» 💵",
+    	    "«Pel juny el bou no es juny al jou» 🐂",
+    	    "«Pel juny, l'albercoc, en vuit dies és groc» 🍑",
+    	    "«Una tonyina pel mes d'abril, pel juny més de mil» 🐟🐟🐟",
+    	    "«Aigües de juny, mals solen dur» ☔",
+    	    "«Al juny, la pluja està lluny, i si plou, cada gota és com el puny» 💧✊",
+    	    "«El juny fred mata l'esplet» ❄🌱",
+    	    "«El sol de juny encén els sembrats» ☀",
+    	    "«Hivern fangós, juny granellós»",
+    	    "«Juny assolellat i ben tronat, any de molt vi i de molt blat» ☀⚡🍷🌾",
+    	    "«Juny plujós, graner polsós» ☔",
+    	    "«Maig ventós i juny calent, fan bon vi i bon forment» 🍷",
+    	    "«Juny fred, sol contentar a poquets»",
+    	    "«Pel juny, cada gota com el puny» 💧✊",
+    	    "«Pel juny, molt sol i molta son» ☀☀😴😴",
+    	    "«Si plou a primers de juny, el bon temps és lluny» ☔"
         ],
         "7": [
-            "«Juliol»"
+            "«Juny, juliol i agost, ni dona, ni col, ni most» 👩🍇🚫",
+	    "«Al mes de juliol, a l'era hi fa bon sol»",
+    	    "«En juliol, agarra el cabàs i ves al mallol»",
+    	    "«En juliol, trau la garba al sol»",
+    	    "«En juliòl, pinta ulleròl»",
+    	    "«Infants i pasta, el juliol es glaça»",
+    	    "«Maig, juny, juliol i agost, ni cargols, ni dones, ni most»",
+    	    "«No hi ha juliol sense verol»",
+    	    "«Pel gener mana la lluna i pel juliol mana el sol»",
+    	    "«Pel juny, confitures, pel juliol, fesols i per a l'agost, figues i most»",
+    	    "«Pel juliol, amb poc foc, bull el perol»",
+    	    "«Pel juliol, el cap li dol»",
+    	    "«Pel juliol, ni dona ni cargol»",
+    	    "«Pel juliol, sastres allargueu les mans, que us atipareu de prunes com els tocinos de glans»",
+    	    "«Poll de juliol, cap o cul sempre li dol»",
+    	    "«Qui no es banya pel juliol no es banya quan vol»",
+    	    "«Trons de juliol, molt soroll i poc brou»"
         ],
         "8": [
-            "«Agost»"
+            "«Juny, juliol i agost, ni dona, ni col, ni most» 👩🍇🚫"
         ],
         "9": [
             "«Setembre»"

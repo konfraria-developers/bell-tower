@@ -22,11 +22,28 @@
 	    "Roses",
 	    "RegalaCultura"
         ],
+	"13/5": [
+	    "SantPereRegalat"
+	],
         "15/5": [
             "SantIsidre",
 	    "SantIsidreLlaurador",
 	    "FestaMajorPetita"
         ],
+	"23/6": [
+	    "SantaAgripina",
+	    "Coques",
+	    "Revetlla",
+	    "Petards"
+	],
+	"24/6": [
+	    "SantJoan"
+	],
+	"29/6": [
+	    "SantPere",
+	    "SantPau",
+	    "SantPereSantPau"
+	],
         "15/8": [
             "EnVósEsperaIConfia",
             "FestaMajor",
@@ -81,7 +98,7 @@
             "ElsDijousEsComprenOus"
         ],
         "5": [
-            "ElsDivendresFabesTendres"
+            "ElsDivendresFavesTendres"
         ],
         "6": [
             "ElsDissabtesTotShoGasta"
@@ -106,10 +123,21 @@
             "Abril"
         ],
         "5": [
-            "Maig"
+            "Maig",
+	    "SantIsidre",
+	    "FestaMajorPetita",
+	    "Horts",
+	    "Llaurador",
+	    "XapulinaRoc",
+	    "XapolinaTime",
+	    "AplecsADojo",
+	    "Comunions"
         ],
         "6": [
-            "Juny"
+            "Juny",
+	    "AdéuEscola",
+	    "Holidays",
+	    "Piscineta"
         ],
         "7": [
             "Juliol"
