@@ -170,7 +170,7 @@ class BellTower(object):
 
 		return tag[0]
 
-'''if __name__ == '__main__':
+if __name__ == '__main__':
 
 	if len(sys.argv) < 3:
 		print '[ERROR] You must provide the path to your Twitter credentials and tags.'
@@ -188,4 +188,4 @@ class BellTower(object):
 	bt.init_bell_tower()
 
 	# Tweet in twitter given the current date
-	bt.tweet(now)'''
+	bt.tweet(now)
