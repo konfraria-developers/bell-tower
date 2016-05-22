@@ -1,7 +1,7 @@
 import sys
 import datetime
 
-from bell_tower import BellTower
+from bell_tower import bell_tower
 
 if __name__ == '__main__':
 
@@ -15,7 +15,7 @@ if __name__ == '__main__':
 	# Instantiate bell tower
 	# Internally loads a file with the app credentials,
 	# and loads a file with a list of tags to tweet.
-	bt = BellTower(sys.argv[1], sys.argv[2])
+	bt = bell_tower.BellTower(sys.argv[1], sys.argv[2])
 
 	# Init data
 	bt.init_bell_tower()

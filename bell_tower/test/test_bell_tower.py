@@ -3,16 +3,15 @@ import unittest
 import os
 import datetime
 
-from bell_tower import BellTower
-
-
+from bell_tower import bell_tower
 
 class TestUM(unittest.TestCase):
-    credentials_dir = os.path.abspath('test/data/mock_credentials.json')
+    credentials_dir = os.path.abspath('bell_tower/test/data/mock_credentials.json')
     data_dir = os.path.abspath('data')
 
     def setUp(self):
-        self.bt = BellTower(self.credentials_dir, self.data_dir)
+        print self.credentials_dir
+        self.bt = bell_tower.BellTower(self.credentials_dir, self.data_dir)
 
     def test_01_load_credentials(self):
         self.bt.load_credentials()
