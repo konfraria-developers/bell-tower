@@ -5,7 +5,7 @@
 |-----------|
 [![Build Status](https://travis-ci.org/konfraria-developers/bell-tower.svg?branch=master)](https://travis-ci.org/konfraria-developers/bell-tower)
 
-For install the dependencies;
+For install the dependencies:
 
     $ pip install -r requeriments.txt
     
