@@ -59,31 +59,5 @@ class TestUM(unittest.TestCase):
 
         self.assertTrue('Minutes must be multiple of 15' in context.exception)
 
-
-    def test_05_simple_tweet(self):
-        self.bt.init_bell_tower()
-
-        self.assertNotEqual(self.bt.credentials, None)
-        self.assertNotEqual(self.bt.api, None)
-        self.assertNotEqual(self.bt.time, None)
-        self.assertNotEqual(self.bt.tags, None)
-
-        # good test
-
-        date = datetime.datetime(2016, 5, 22, 19, 0, 0)
-        text = self.bt.tweet_mock(date)
-
-        self.assertGreater(len(text), 0)
-        self.assertLessEqual(len(text), self.bt.max_tweet_char)
-
-        # bad test
-
-        date = datetime.datetime(2016, 5, 22, 19, 01, 0)
-
-        with self.assertRaises(Exception) as context:
-            self.bt.tweet_mock(date)
-
-        self.assertTrue('Minutes must be multiple of 15' in context.exception)
-
 if __name__ == '__main__':
     unittest.main()
