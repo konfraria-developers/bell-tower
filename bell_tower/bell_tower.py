@@ -80,7 +80,7 @@ class BellTower(object):
 
 	def tweet(self, date):
 		text = self.process_date(date)
-		send_tweet(text)
+		self.send_tweet(text)
 
 	def process_text(self, date):
 		# build tweet message - hour
