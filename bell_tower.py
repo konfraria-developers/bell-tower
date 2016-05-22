@@ -155,12 +155,12 @@ class BellTower(object):
 				key_ = '0-5'
 			elif date.hour < 13:
 				key_ = '6-12'
-		elif date.hour < 16:
-			key_ = '13-15'
-		elif date.hour < 21:
-			key_ = '16-20'
-		else:
-			key_ = '21-24'
+			elif date.hour < 16:
+				key_ = '13-15'
+			elif date.hour < 21:
+				key_ = '16-20'
+			else:
+				key_ = '21-24'
 
 		# get a random tokens
 		if key == 'other':
