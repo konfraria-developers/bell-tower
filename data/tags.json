@@ -86,25 +86,68 @@
     "day_week": {
 
         "1": [
-            "ElsDillunsEsComprenLlums"
+            "ElsDillunsEsComprenLlums",
+	    "Dilluns",
+	    "DurÉsDilluns",
+	    "FerDilluns",
+	    "EncetemSetmana",
+	    "PrimerDia",
+	    "Monday"
         ],
         "2": [
-            "ElsDimartsEsComprenNaps"
+            "ElsDimartsEsComprenNaps",
+	    "Dimarts",
+	    "DimartsMitjaFesta",
+	    "LaVellaNoFila",
+	    "SegonDia",
+	    "Tuesday"
         ],
         "3": [
-            "ElsDimecresTotShoMenja"
+            "ElsDimecresTotShoMenja",
+	    "Dimecres",
+	    "FerDimecres",
+	    "Wednesday",
+	    "TercerDia"
         ],
         "4": [
-            "ElsDijousEsComprenOus"
+            "ElsDijousEsComprenOus",
+	    "Dijous",
+	    "AlMigComElDijous",
+	    "SetmanaDelsTresDijous",
+	    "Thursday",
+	    "DijousMenjaBous",
+	    "QuartDia"
         ],
         "5": [
-            "ElsDivendresFavesTendres"
+            "ElsDivendresFavesTendres",
+	    "Divendres",
+	    "NéixerEnDivendres",
+	    "FerDivendres",
+	    "CapDeSetmana",
+	    "FerCaraDeDivendres",
+	    "Friday",
+	    "FollowFriday",
+	    "FF",
+	    "CinquèDia"
         ],
         "6": [
-            "ElsDissabtesTotShoGasta"
+            "ElsDissabtesTotShoGasta",
+	    "Dissabte",
+	    "SisèDia",
+	    "Saturday",
+	    "SaturdayNightFever",
+	    "FerDissabte",
+	    "DissabteCuinaIPasta",
+	    "DissabteDiaDeRecapte",
+	    "CapDeSetmana"
         ],
         "7": [
-            "ElDiumengeElCulEtPenja"
+            "ElDiumengeElCulEtPenja",
+	    "Diumenge",
+	    "SetèDia",
+	    "Sunday",
+	    "CapDeSetmana",
+	    "AdéuSetmana!"
         ]
     },
 
@@ -140,19 +183,43 @@
 	    "Piscineta"
         ],
         "7": [
-            "Juliol"
+            "Juliol",
+	    "Piscina",
+	    "Holidays",
+	    "Piscineta",
+	    "ATorrarSe",
+	    "Sol",
+	    "Calor"
         ],
         "8": [
-            "Agost"
+            "Agost",
+	    "FestaMajor",
+	    "SlàlomDelKinto",
+	    "SoparHomesIDones",
+	    "Holidays",
+	    "SantaMariaDeLaPalma",
+	    "SantaMaria",
+	    "ATorrarSe",
+	    "Platja",
+	    "Sol",
+	    "Calor"
         ],
         "9": [
-            "Setembre"
+            "Setembre",
+	    "WeReturn",
+	    "ALEscola",
+	    "SantTorneMHi"
         ],
         "10": [
-            "Octubre"
+            "Octubre",
+	    "Bolets",
+	    "CastanyadaTime",
+	    "TempsDeBolets"
         ],
         "11": [
-            "Novembre"
+            "Novembre",
+	    "Bolets",
+	    "TempsDeBolets"
         ],
         "12": [
             "Desembre",
@@ -164,19 +231,34 @@
 
     "hours_interval": {
         "0-5": [
-            "Zzzzzz"
+            "Zzzzzz",
+	    "FentNones",
+	    "ElLlitXucla",
+	    "Son"
         ],
         "6-12": [
-            "BonDiaALaVilaDelPingüí"
+            "BonDiaALaVilaDelPingüí",
+	    "BonDia",
+	    "BonDiaPalmarencs",
+	    "AEsmorzar",
+	    "BonDiaRafamans"
         ],
 	"13-15": [
-            "HoraDeDinar"
+            "HoraDeDinar",
+	    "Migdia",
+	    "Migdiada"
         ],
 	"16-20": [
-            "Tarda"
+            "Tarda",
+	    "ABerenar",
+	    "BonaTardaPalmarencs"
         ],
 	"21-24": [
-            "BonaNitALaVilaDelPingüí"
+            "BonaNitALaVilaDelPingüí",
+	    "BonaNitPalmarencs",
+	    "BonaNit",
+	    "ASopar",
+	    "BonaNitRafamans"
         ]
     },
 
@@ -185,16 +267,45 @@
             "HivernGlaçat",
             "FaFred!",
             "LaMarEstàFresquibiris",
-            "AmbElCulALAire"
+            "AmbElCulALAire",
+	    "Hivern",
+	    "SotaZero",
+	    "TempsPausat"
         ],
         "summer": [
-            "HivernGlaçat"
+            "Estiu",
+	    "Summertime",
+	    "OnTheBeach",
+	    "TemudaCanícula",
+	    "CanículaOnBeach",
+	    "Sequera",
+	    "Estiueig",
+	    "Vacances",
+	    "Relax",
+	    "ElCaloret",
+	    "FaCalor!"
         ],
         "spring": [
-            "HivernGlaçat"
+            "Primavera",
+	    "SummerIsComming",
+	    "Primaveral",
+	    "Vernal",
+	    "Al·lèrgiesADojo",
+	    "Desgel",
+	    "Renaixement",
+	    "Florint"
         ],
         "autumn": [
-            "WinterIsComming"
+            "WinterIsComming",
+	    "Tardor",
+	    "PrimaveraDHivern",
+	    "Rerevera",
+	    "SantMiquelada",
+	    "Autumne",
+	    "SEscurçaElDia",
+	    "NitsLlargues",
+	    "CauenLesFulles",
+	    "PostVacacional"
         ]
     },
 
